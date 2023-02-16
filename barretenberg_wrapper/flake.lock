@@ -93,12 +93,12 @@
       },
       "locked": {
         "lastModified": 0,
-        "narHash": "sha256-w+EBkqYexL1Q5LfUgwYKv3+QPiJ3O9L047CqQzK+yqo=",
-        "path": "../",
+        "narHash": "sha256-XHrQHwMqMLfb5A2ZQ8zF+ShYl3b3vG0Tf/MU5/7qMbI=",
+        "path": "./../",
         "type": "path"
       },
       "original": {
-        "path": "../",
+        "path": "./../",
         "type": "path"
       }
     },

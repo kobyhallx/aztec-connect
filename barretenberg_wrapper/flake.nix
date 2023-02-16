@@ -20,7 +20,7 @@
     };
 
     libbarretenberg_pkgs = {
-      url = "path:../";
+      url = "path:./../";
       inputs.nixpkgs.follows = "nixpkgs";
     };
   };
